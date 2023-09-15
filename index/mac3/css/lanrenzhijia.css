@@ -1,9 +1,9 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /* 代码整理：懒人之家*/
 
 
 body {
-	background:url(http://free163.kuaiyunds.com/free163/ffff.cool/mac/galaxy.jpg);
+	background:url(../mac/galaxy.jpg);
 	background-position:center top;
 	background-repeat:no-repeat;
 	margin:0px;
@@ -11,10 +11,10 @@ body {
 	overflow:hidden;
 }
 .blur {
-	background:url(http://free163.kuaiyunds.com/free163/ffff.cool/mac/galaxyblur.jpg);
+	background:url(../mac/galaxyblur.jpg);
 }
 #dock {
-	background:url(http://free163.kuaiyunds.com/free163/ffff.cool/mac/dock.png) no-repeat bottom;
+	background:url(../mac/dock.png) no-repeat bottom;
 	width:auto;
 	bottom:0;
 	text-align:center;
@@ -40,7 +40,7 @@ body {
 	-webkit-transition:0.2s ease-in-out;
 }
 .icon {
-	background:url(http://free163.kuaiyunds.com/free163/ffff.cool/mac/shadow.png) no-repeat left center;
+	background:url(../mac/shadow.png) no-repeat left center;
 	float:left;
 	width:60px;
 	height:80px;
